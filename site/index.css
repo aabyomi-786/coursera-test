@@ -5,15 +5,18 @@ h1{
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
+body{
+	background-color: black;
 
+}
 p{
-	color: red
+	color: red;
 	font-size:  3.0em;
-	text-align: center
+	text-align: center;
 }
 
 ul{
-	color: yellow
-	font-size: medium
-	text-align: center
+	color: yellow;
+	font-size: medium;
+	text-align: center;
 }
