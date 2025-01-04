@@ -1,3 +1,13 @@
 h1{
 	color: Green;
+	font-size: large;
+	font-style: oblique;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p{
+	color: red
+	font-size:  3.0em;
+	text-align: center
 }
