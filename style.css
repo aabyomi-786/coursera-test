@@ -1,0 +1,45 @@
+h1{
+	color: Green;
+	font-size: 2.1;
+	text-align: center;
+	
+}
+h2{
+	color: Green;
+	font-size: 2.1;
+	text-align: left
+	
+}
+
+h3{
+	color: Green;
+	font-size: 2.1;
+	text-align: left
+	
+}
+
+
+body{
+	background-color: rgb(200, 198, 196);
+
+}
+u{
+    color:white;
+}
+
+p{
+	color: rgb(10, 7, 7);
+	font-size:  1.5;
+	text-align: center;
+}
+
+h4{
+	color: rgb(96, 88, 88);
+	font-size: xx-large;
+	text-align: center;
+}
+ul{
+	color: yellow;
+	font-size: medium;
+	text-align: center;
+}
